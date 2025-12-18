@@ -38,7 +38,7 @@
             "type": "Link"
         },
         {
-            "label": "Drop",
+            "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
                 {
